@@ -1,16 +1,15 @@
-# ¡Hola, soy [ValentinR08]! 👋
+# ¡Hola, soy Valentín Rivera! 👋
 
-🚀 **Desarrollador [Full-Stack | Blockchain | Data Science | etc.]** apasionado por crear soluciones innovadoras y escalables.  
+🚀 **Desarrollador [Full-Stack | Cyberseguridad]** apasionado por crear soluciones innovadoras y escalables.  
 💡 Me encanta resolver problemas complejos y construir cosas que impacten positivamente en el mundo.  
 🌐 Siempre explorando nuevas tecnologías y aprendiendo algo nuevo cada día.
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes**: JavaScript, Python, Solidity, Rust, etc.
-- **Frameworks**: React, Node.js, Django, etc.
-- **Blockchain**: Ethereum, Smart Contracts, Layer 2 Solutions.
-- **Herramientas**: Git, Docker, Kubernetes, CI/CD.
-- **Bases de Datos**: PostgreSQL, MongoDB, Firebase.
+- **Lenguajes**: JavaScript, Python, PHP, C#.
+- **Frameworks**: React.js, React Native, Laravel, Symfony, Asp.net.
+- **Herramientas**: Git, Docker, Kubernetes,  GoogleCloud, Postman.
+- **Bases de Datos**: MySQL, MongoDB, Firebase.
 
 
 ## 📈 Estadísticas de GitHub
@@ -19,10 +18,10 @@
 
 ## 📫 ¡Conéctate conmigo!
 
-- **LinkedIn**: [Tu Perfil](enlace)
+- **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/valent%C3%ADn-rivera-de-los-santos-382b2732a/)
 - **Instagram**: [valentin.rdls](https://www.instagram.com/valentin.rdls/)
-- **Portafolio**: [Tu Sitio Web](enlace)
-- **Email**: tu-email@example.com
+- **Portafolio**:
+- **Email**: valentonriversan@gmail.com
 
 ## 💬 ¿Interesado en colaborar?
 
