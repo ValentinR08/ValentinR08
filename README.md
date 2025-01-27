@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy [ValentinR08]! 👋
 
 🚀 **Desarrollador [Full-Stack | Blockchain | Data Science | etc.]** apasionado por crear soluciones innovadoras y escalables.  
 💡 Me encanta resolver problemas complejos y construir cosas que impacten positivamente en el mundo.  
@@ -15,7 +15,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinR08&show_icons=true&theme=radical)
 
 ## 📫 ¡Conéctate conmigo!
 
