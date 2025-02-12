@@ -9,7 +9,7 @@
 - **Lenguajes**: JavaScript, Python, PHP, C#.
 - **Frameworks**: React.js, React Native, Laravel, Symfony, Asp.net.
 - **Herramientas**: Git, Docker, Kubernetes,  GoogleCloud, Postman.
-- **Bases de Datos**: MySQL, MongoDB, Firebase, Postgre
+- **Bases de Datos**: MySQL, MongoDB, Firebase, Postgre.
 
 
 ## 📈 Estadísticas de GitHub
