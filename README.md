@@ -4,9 +4,9 @@
 💡 Me encanta resolver problemas complejos y construir cosas que impacten positivamente en el mundo.  
 🌐 Siempre explorando nuevas tecnologías y aprendiendo algo nuevo cada día.
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
 </picture>
 
 
