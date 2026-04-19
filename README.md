@@ -1,7 +1,9 @@
 # ¡HI, I'm Valentín Rivera! 👋
 
 🚀 **Full-Stack Developer | AI Integration & Cloud Specialist**
+
 passionate about building scalable solutions and intelligent automation systems.
+
 💡 I focus on transforming complex technical requirements into high-impact products that optimize business processes and costs.
 
 🌐 Expert in AWS architectures and deploying LLMs to revolutionize user experiences.
@@ -13,9 +15,13 @@ passionate about building scalable solutions and intelligent automation systems.
 
 
 ## 🛠️ Technologies & ToolsLanguages
+
 Python (Advanced), JavaScript/TypeScript, PHP, C++.
+
 Frameworks & Frontend: React.js, Next.js, Laravel, Nest.js, FastAPI.
+
 PWA.AI & Data: LLMs, RAG, PyTorch, TensorFlow, OpenCV, Mediapipe.
+
 Cloud & DevOps: AWS (EC2, S3, RDS, Lambda, CloudFront), Docker, Git, Redis.Databases: MySQL, PostgreSQL, MongoDB, Firebase.
 
 
