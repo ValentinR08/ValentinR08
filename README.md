@@ -1,8 +1,8 @@
-# ¡Hola, soy Valentín Rivera! 👋
+# ¡HI, I'm Valentín Rivera! 👋
 
-🚀 **Desarrollador [Full-Stack | Cyberseguridad]** apasionado por crear soluciones innovadoras y escalables.  
-💡 Me encanta resolver problemas complejos y construir cosas que impacten positivamente en el mundo.  
-🌐 Siempre explorando nuevas tecnologías y aprendiendo algo nuevo cada día.
+🚀 **[Full-Stack Developer | AI Integration & Cloud Specialist]** passionate about building scalable solutions and intelligent automation systems.
+💡 I focus on transforming complex technical requirements into high-impact products that optimize business processes and costs.
+🌐 Expert in AWS architectures and deploying LLMs to revolutionize user experiences.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
@@ -10,12 +10,11 @@
 </picture>
 
 
-## 🛠️ Tecnologías y Herramientas
-
-- **Lenguajes**: JavaScript, Python, PHP.
-- **Frameworks**: React.js, React Native, Laravel, Symfony.
-- **Herramientas**: Git, Docker, Kubernetes,  GoogleCloud, Postman.
-- **Bases de Datos**: MySQL, MongoDB, Firebase, Postgre.
+## 🛠️ Technologies & ToolsLanguages
+Python (Advanced), JavaScript/TypeScript, PHP, C++.
+Frameworks & Frontend: React.js, Next.js, Laravel, Nest.js, FastAPI.
+PWA.AI & Data: LLMs, RAG, PyTorch, TensorFlow, OpenCV, Mediapipe.
+Cloud & DevOps: AWS (EC2, S3, RDS, Lambda, CloudFront), Docker, Git, Redis.Databases: MySQL, PostgreSQL, MongoDB, Firebase.
 
 
 ## 📈 Estadísticas de GitHub
