@@ -1,7 +1,9 @@
 # ¡HI, I'm Valentín Rivera! 👋
 
-🚀 **[Full-Stack Developer | AI Integration & Cloud Specialist]** passionate about building scalable solutions and intelligent automation systems.
+🚀 **Full-Stack Developer | AI Integration & Cloud Specialist**
+passionate about building scalable solutions and intelligent automation systems.
 💡 I focus on transforming complex technical requirements into high-impact products that optimize business processes and costs.
+
 🌐 Expert in AWS architectures and deploying LLMs to revolutionize user experiences.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ValentinR08/ValentinR08/blob/output/github-snake-dark.svg">
